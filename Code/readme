@@ -1,2 +1,3 @@
 AllOrders and Order classes
 listBy methods not done yet
+checkCustomer : may not be useful and too complicated to implement for the use we are going to make of this method
